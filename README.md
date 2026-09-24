@@ -26,7 +26,7 @@ The disorder follows an autosomal recessive inheritance pattern, meaning that af
 **Chromosome:** Chromosome 9
 **Chromosomal Band:** 9p13.3
 **Genome Assembly Used:** NM_000155.4
-**UCSC Genome Coordinates:** chr9 34,649,000 - 34,650,000
+**UCSC Genome Coordinates:** chr9: 34,634,319-34,663,391
 **DNA Strand:** Minus (-)
 **Approximate Gene Size / Length:** 4,361 bp
 
