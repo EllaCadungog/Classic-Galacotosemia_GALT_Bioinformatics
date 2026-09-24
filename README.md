@@ -122,10 +122,9 @@ The most interesting feature was the GALT pathogenic variant c.563A>G (p.Gln188A
 
 ### References and Links
 
-**NCBI ClinVar:** Galactosemia: Biochemistry, Molecular Genetics, Newborn Screening, and Treatment - PMC. Available at
+**NCBI ClinVar:** National Center for Biotechnology Information. ClinVar database entry for GALT variant NM_000155.4(GALT):c.563A>G (p.Gln188Arg) (Variation ID: 3614). Available at https://www.ncbi.nlm.nih.gov/clinvar/variation/3614/?term=%22c.563A%3EG%22%5BVARNAME%5D+AND+%22GALT%22%5BGENE%5D 
 
-**UCSC Genome Browser:** Human (GRCh38/hg38) Assembly, GALT genomic region on chromosome 9. Available at: UCSC Genome Browser .
-
+**UCSC Genome Browser:** Human (GRCh38/hg38) Assembly, UCSC Genomics Institute. GALT genomic region (Chromosome 9). Available at https://genome.ucsc.edu/
 
 
 
