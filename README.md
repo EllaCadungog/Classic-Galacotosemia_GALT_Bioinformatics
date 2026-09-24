@@ -21,122 +21,116 @@ Affected newborns commonly present with poor feeding, vomiting, diarrhea, failur
 The disorder follows an autosomal recessive inheritance pattern, meaning that affected individuals typically inherit pathogenic GALT variants from both parents.
 
 
-
-## GALT Gene Location
+## UCSC Gene Location
 
 **Chromosome:** Chromosome 9
-
 **Chromosomal Band:** 9p13.3
+**Genome Assembly Used:** NM_000155.4
+**UCSC Genome Coordinates:** chr9 34,649,000 - 34,650,000
+**DNA Strand:** Minus (-)
+**Approximate Gene Size / Length:** 4,361 bp
 
-**Reference Transcript:** NM_000155.4
-
-**Gene Function:** The GALT gene encodes the enzyme galactose-1-phosphate uridylyltransferase, which is involved in galactose metabolism.
-
-**UCSC Genome Coordinates:** Not provided in the laboratory file.
-
-**Genome Assembly:** Not provided in the laboratory file.
-
-**DNA Strand:** Not provided in the laboratory file.
-
-**Approximate Gene Size / Length:** Not provided in the laboratory file.
-
-**Description:** The laboratory file identifies GALT on the short arm of chromosome 9 at 9p13.3. The gene encodes the GALT enzyme, which functions primarily in the cytosol and participates in the Leloir pathway.
+**Screenshot 1: Gene location in UCSC:** 
 
 
 
 ## Exons, Introns, and Transcripts
 
-**Number of Exons:** Not specified in the laboratory file.
+**Number of Exons:** 11
 
-**Multiple Transcripts/Isoforms:** Not specified in the laboratory file.
+**Multiple Transcripts/Isoforms:** Yes. The GALT gene has multiple alternative transcripts, with NM_000155.4 as the canonical transcript and NM_001258332.2 as another RefSeq isoform produced by alternative splicing. 
 
 **Reference Transcript:** NM_000155.4
 
-**Definition of Exon vs. Intron:** The laboratory analysis focused on the GALT coding sequence and its nucleotide changes. The file does not provide a specific exon/intron structure for the gene.
+**Definition of Exon vs. Intron:** Exons are the coding segments that remain in the mature mRNA after RNA splicing, while introns are the non-coding intervening sequences that are removed during mRNA processing. 
 
-**Coding Sequence:** The GALT coding sequence used in the analysis is 1,140 nucleotides long.
+**Introns vs. Exon Length Observation:** The introns are much longer than the exons, so the exons appear as short blocks separated by large genomic gaps in the GALT gene structure.
 
-**Protein Length:** The predicted GALT protein contains 379 amino acids.
-
+## Screenshot 2: Gene Structure and Transcripts
 
 
 ## Genome Browser Tracks
 
-**a. Gene annotation track used:** Not specified in the laboratory file.
+**a. Gene annotation track used:** NCBI RefSeq
 
-**b. ClinVar-related variant marks:** The laboratory file provides ClinVar information for the documented GALT variant, but it does not describe a UCSC Genome Browser ClinVar track.
+**b. ClinVar-related variant marks:** Yes, the ClinVar provides visible information across the GALT within and surrounding the gene region.
 
-**c. Conservation variation:** Not specified in the laboratory file.
+**c. Conservation variation:** Yes, several regions show stronger conservation signals than others when compared across different species. 
 
-**d. Conserved region location:** Not specified in the laboratory file.
+**d. Conserved region location:** The most highly conserved regions are found mainly wihtin the coding exons and other functionally important parts of the GALT gene. 
 
-**e. Significance of conservation:** Not evaluated in the laboratory file.
+**e. Significance of conservation:** High sequence conservation indicates that these regions are under purifying selection, means that they perform essential biological functions and are less tolerant of harmful mutations. 
 
-The laboratory analysis instead focused on the nucleotide sequence, predicted protein sequence, mutation type, and comparison of wild-type and mutant GALT sequences.
-
-
-
-## GALT Normal Protein Function
-
-The GALT gene encodes the enzyme **galactose-1-phosphate uridylyltransferase**.
-
-Under normal conditions, GALT catalyzes the transfer of a uridylyl group from UDP-glucose to galactose-1-phosphate, generating UDP-galactose and glucose-1-phosphate.
-
-The reaction can be summarized as:
-
-UDP-glucose + galactose-1-phosphate  
-↓  
-**GALT enzyme**  
-↓  
-UDP-galactose + glucose-1-phosphate
-
-The GALT protein is primarily located in the **cytosol** and participates in the **Leloir pathway**, which is the major metabolic pathway responsible for converting galactose into intermediates that can enter other carbohydrate metabolic processes.
-
-Normal GALT activity helps prevent the accumulation of potentially harmful galactose metabolites.
+## Screenshot 3: Browser Tracks (Clinvar SNVs and Conservation)
 
 
-## GALT Coding Sequence and Predicted Protein
+## ClinVar Variant Selection
 
-**CDS Length:** 1,140 nucleotides
-
-**Protein Length:** 379 amino acids
-
-**Start Codon:** ATG
-
-**Stop Codon:** TGA
-
-**Reading Frame:** Frame 1
-
-**First 10 Amino Acids:** MSRSGTDPQQ
-
-**Last 10 Amino Acids:** LPEVHYHLGQ
-
-The translated sequence represents the **predicted protein sequence** encoded by the GALT coding sequence. Translation alone does not demonstrate that the protein is actually expressed in a human cell or that it is correctly folded, localized, or active.
-
-
-
-# ClinVar Variant Selection
-
-**a. Gene:** GALT
+**a. Gene:** GALT (Galactose-1-phosphate uridylyltranferase)
 
 **b. Variant HGVS / Description:**
 
-`NM_000155.4(GALT):c.563A>G (p.Gln188Arg)`
+`NM_000155.4(GALT):c.563A>G (p.Gln188Arg, Q188R)
 
-**c. ClinVar Accession:** VCV000003614.140
+**c. rsID or ClinVar Variation ID/ VCV Accession:** rs75391579; Variation ID: 3614; VCV000003614
 
-**d. Nucleotide Position:** c.563A>G
+**d. Chromosome and Genomic Positio:** Chromosome 9; 9:34648170 (GRCh38)
 
-**e. Associated Condition / Disease:** Classic Galactosemia
+**e. Associated Condition / Disease:** Classic Galactosemia (Galactose-1-phosphate uridylyltransferase deficiency)
 
 **f. Clinical Significance:** Pathogenic
 
-**g. Mutation Type:** Single-nucleotide substitution / missense mutation
+**g. Review Status:** Conflicting classification of pathogenicity (majority of submissions classify the variant as pathogenic)
 
-**h. Predicted Protein Change:** p.Gln188Arg (Q188R)
+**h. ClinVar Record URL:** https://www.ncbi.nlm.nih.gov/clinvar/variation/3614/?term=%22c.563A%3EG%22%5BVARNAME%5D+AND+%22GALT%22%5BGENE%5D 
 
+## Screenshot 4: ClinVar Variant Record 
 
 
 ## Variant Mapping and Functional Context
 
-**a. Where is the varian
+**a.** Where is the variant located relative to your gene? The variant NM_000155.4:c.563A>G is located within the GALT gene on chromosome 9 and maps to the coding region of the gene.
+
+**b.** Is it in an exon, intron, UTR, splice region, or another region? It is located in Exon 6, which is part of the protein-coding sequence.
+
+**c.** Is it likely in a coding or non-coding region based on the displayed annotations? Yes. It is in a coding region and changes the amino acid glutamine (Gln) to arginine (Arg) at position 188 of the GALT protein (p.Gln188Arg).
+
+**d.** Based on its location and ClinVar information, briefly explain how the variant might affect the gene or gene product. The p.Gln188Arg variant reduces the activity of the GALT enzyme, making it unable to efficiently metabolize galactose. As a result, toxic galactose-1-phosphate accumulates in cells, causing Classic Galactosemia.
+
+**e.** What additional evidence would be needed before concluding that the variant causes disease? Additional evidence includes functional enzyme activity assays, family co-segregation studies, and population allele frequency data, together with clinical findings, to confirm that the variant is disease-causing.
+
+## Screentshot 5: Variant Position in UCSC
+
+
+### Reflection Questions
+
+**1.** What did UCSC show you about your gene that was not obvious from simply reading about the gene's function?
+
+The UCSC Genome Browser showed the genomic structure of the GALT gene on chromosome 9, including its exon–intron organization and exact genomic coordinates. This made it easier to see where the gene is physically located and how its transcripts are arranged, which is not obvious from a functional description alone.
+
+**2.** Why is knowing the exact genomic location of a disease-associated variant useful?
+
+Knowing the exact genomic location helps identify whether a variant is in an exon, intron, UTR, or splice region. It also allows researchers to compare the variant with databases such as ClinVar and reference genome assemblies like GRCh38 for accurate interpretation.
+
+**3.** What is one limitation of predicting a variant's effect only from its genomic location?
+
+Genomic location provides structural information, but it does not prove that the variant changes protein function or causes disease. Functional assays, clinical evidence, and family studies are still needed to confirm pathogenicity.
+
+**4.** What was the most interesting feature you observed about your assigned gene?
+
+The most interesting feature was the GALT pathogenic variant c.563A>G (p.Gln188Arg) located in Exon 6. A single nucleotide change can greatly reduce GALT enzyme activity, leading to Classic Galactosemia by causing the accumulation of toxic galactose-1-phosphate.
+
+### References and Links
+
+**NCBI ClinVar:** Galactosemia: Biochemistry, Molecular Genetics, Newborn Screening, and Treatment - PMC. Available at
+
+**UCSC Genome Browser:** Human (GRCh38/hg38) Assembly, GALT genomic region on chromosome 9. Available at: UCSC Genome Browser .
+
+
+
+
+
+
+
+
+
