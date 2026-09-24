@@ -29,7 +29,7 @@ The disorder follows an autosomal recessive inheritance pattern, meaning that af
 
 **Genome Assembly Used:** NM_000155.4
 
-**UCSC Genome Coordinates:** chr9: 34,634,319-34,663,391
+**UCSC Genome Coordinates:** chr9:34,646,675-34,651,035
 
 **DNA Strand:** Minus (-)
 
