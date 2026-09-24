@@ -30,7 +30,7 @@ The disorder follows an autosomal recessive inheritance pattern, meaning that af
 **DNA Strand:** Minus (-)
 **Approximate Gene Size / Length:** 4,361 bp
 
-**Screenshot 1: Gene location in UCSC:** 
+## Screenshot 1: Gene location in UCSC: 
 
 
 
@@ -46,7 +46,7 @@ The disorder follows an autosomal recessive inheritance pattern, meaning that af
 
 **Introns vs. Exon Length Observation:** The introns are much longer than the exons, so the exons appear as short blocks separated by large genomic gaps in the GALT gene structure.
 
-## Screenshot 2: Gene Structure and Transcripts
+## Screenshot 2: Gene Structure and Transcripts 
 
 
 ## Genome Browser Tracks
