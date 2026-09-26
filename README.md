@@ -35,8 +35,11 @@ The disorder follows an autosomal recessive inheritance pattern, meaning that af
 
 **Approximate Gene Size / Length:** 4,361 bp
 
-## Screenshot 1: Gene location in UCSC: 
+## Screenshot 1: Gene Location in UCSC
 
+*Description: The UCSC Genome Browser displaying the GALT gene region on chromosome 9 with visible genomic coordinates and gene symbol.*
+
+- [View Screenshot 1 (Gene Location)](screenshots/01_gene_location.png)
 
 
 ## Exons, Introns, and Transcripts
@@ -51,7 +54,11 @@ The disorder follows an autosomal recessive inheritance pattern, meaning that af
 
 **Introns vs. Exon Length Observation:** The introns are much longer than the exons, so the exons appear as short blocks separated by large genomic gaps in the GALT gene structure.
 
-## Screenshot 2: Gene Structure and Transcripts 
+## Screenshot 2: GALT Gene Structure
+
+*Description: The GALT gene showing the exon–intron organization and the selected reference transcript (NM_000155.4).*
+
+- [View Screenshot 2 (Gene Structure)](screenshots/02_gene_structure.png) 
 
 
 ## Genome Browser Tracks
@@ -66,7 +73,11 @@ The disorder follows an autosomal recessive inheritance pattern, meaning that af
 
 **e. Significance of conservation:** High sequence conservation indicates that these regions are under purifying selection, means that they perform essential biological functions and are less tolerant of harmful mutations. 
 
-## Screenshot 3: Browser Tracks (Clinvar SNVs and Conservation)
+## Screenshot 3: UCSC Genome Browser Tracks
+
+*Description: The UCSC Genome Browser displaying RefSeq, GENCODE, ClinVar, and other annotation tracks across the GALT gene region.*
+
+- [View Screenshot 3 (Genome Tracks)](screenshots/03_tracks.png)
 
 
 ## ClinVar Variant Selection
@@ -89,7 +100,11 @@ The disorder follows an autosomal recessive inheritance pattern, meaning that af
 
 **h. ClinVar Record URL:** https://www.ncbi.nlm.nih.gov/clinvar/variation/3614/?term=%22c.563A%3EG%22%5BVARNAME%5D+AND+%22GALT%22%5BGENE%5D 
 
-## Screenshot 4: ClinVar Variant Record 
+## Screenshot 4: ClinVar Variant
+
+*Description: The ClinVar database showing the pathogenic GALT variant c.563A>G (p.Gln188Arg) associated with Classic Galactosemia.*
+
+- [View Screenshot 4 (ClinVar Variant)](screenshots/04_clinvar_variant.png)
 
 
 ## Variant Mapping and Functional Context
@@ -104,7 +119,11 @@ The disorder follows an autosomal recessive inheritance pattern, meaning that af
 
 **e.** What additional evidence would be needed before concluding that the variant causes disease? Additional evidence includes functional enzyme activity assays, family co-segregation studies, and population allele frequency data, together with clinical findings, to confirm that the variant is disease-causing.
 
-## Screentshot 5: Variant Position in UCSC
+## Screenshot 5: GALT Variant in UCSC
+
+*Description: The UCSC Genome Browser displaying the genomic position of the pathogenic GALT variant c.563A>G (p.Gln188Arg) within the GALT gene on chromosome 9.*
+
+- [View Screenshot 5 (GALT Variant in UCSC)](screenshots/05_variant_in_ucsc.png)
 
 
 ### Reflection Questions
